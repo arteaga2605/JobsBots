@@ -1,0 +1,4 @@
+requests
+feedparser
+supabase
+python-dotenv
