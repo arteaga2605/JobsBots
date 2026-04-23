@@ -2,3 +2,5 @@ requests
 feedparser
 supabase
 python-dotenv
+google-generativeai 
+pypdf
